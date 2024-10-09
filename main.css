@@ -1,0 +1,66 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.header{
+background-color: aqua;
+width: 100%;
+text-align: center;
+height: 150px;
+font-size: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.ota{
+display: flex;
+
+
+}
+.bola1{
+display: flex;
+align-items: center;
+
+width: 600px;
+font-size: 50px;
+height: 300px;
+background-color: red;
+border: 2px solid black;
+}
+.bola3{
+    display: flex;
+align-items: center;
+
+width: 800px;
+font-size: 50px;
+height: 300px;
+background-color: red;
+border: 2px solid black;
+} 
+.bola{
+display: flex;
+ align-items: center;
+ justify-content: center;
+font-size: 50px;
+width: 1200px;
+height: 300px;
+background-color: green;
+}
+.footerBola{
+
+    width: 500px;
+    font-size: 50px;
+    height: 300px;
+background-color: pink;
+
+
+}
+.footerOta{
+display: flex;
+justify-content: space-between;
+background-color: black;
+border: 60px solid #000;
+align-items: center;
+ju
+}
